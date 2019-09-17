@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Analytica - Inception phase"
 date: 2019-09-16
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Analytica is social listening tool that gives real time social insights to your business.
+
+If your product or services are directly impacting the end customer then you have to listen to their voices on the web.
